@@ -7,13 +7,10 @@ Interface web inspirada no mockup enviado, usando:
 - Python (servidor local opcional)
 
 ## Senha atual
-`2479`
+24/07/2002
 
-A ordem foi montada conforme as pistas já definidas:
-- Caderno — 2 — 18:30
-- Carteira — 4 — 19:04
-- Papéis — 7 — 21:10
-- Interrogado — 9 — horário posterior
+A ordem foi montada conforme as pistas do projeto
+
 
 ## Como abrir
 
